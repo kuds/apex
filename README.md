@@ -1,4 +1,4 @@
-# apex
+# Apex
 
 ## Results
 
