@@ -15,6 +15,5 @@ Hardware: Google Colab T4
 | Velociraptor   | PPO        |                |               | 5,000,000            |
 | Velociraptor   | SAC        |                |               | 5,000,000            |
 
-
 ## Finding Theta Blog Posts
  - [From Zero to Dino-Roar: Teaching a T-Rex to Walk with MuJoCo and Reinforcement Learning](https://www.findingtheta.com/blog/from-zero-to-dino-roar-teaching-a-t-rex-to-walk-with-mujoco-and-reinforcement-learning)
