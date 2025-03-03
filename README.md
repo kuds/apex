@@ -1,7 +1,7 @@
 # Apex
 
 ## Basic Dinosaur
-![](/Images/ppo_apex.gif)
+![](/Images/sac_apex.gif)
 
 ## Results
 Hardware: Google Colab T4
@@ -9,7 +9,7 @@ Hardware: Google Colab T4
 | Animal Type    | Model Type | Average Reward | Training Time | Total Training Steps |
 |----------------|------------|----------------|---------------|----------------------|
 | Basic Dinosaur | PPO        | 319.94         | 1:29:43       | 2,600,000            |
-| Basic Dinosaur | SAC        | 807.53         | 0:55:27       | 600,000              |
+| Basic Dinosaur | SAC        | 3081.12        | 4:36:53       | 3,600,000            |
 | Trex           | PPO        |                |               | 5,000,000            |
 | Trex           | SAC        |                |               | 5,000,000            |
 | Velociraptor   | PPO        |                |               | 5,000,000            |
